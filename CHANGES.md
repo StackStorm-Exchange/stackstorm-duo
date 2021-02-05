@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0
+
+* Drop Python 2.7 support
+
 ## 0.5.0
 
 - Converted `duo.auth_chatops` and `duo.auth_wrap_demo` workflows to Orquesta
